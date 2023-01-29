@@ -1,6 +1,6 @@
 from tkinter import *
 # Note: Don't bother with some unfamiliar syntax here,
-# it's just a factor of how Tkinter library has been turned into Python's Tkinter module.
+# it's just a factor of how the Tkinter library has been turned into Python's Tkinter module.
 
 # Creating a new window and configurations
 window = Tk()
